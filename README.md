@@ -44,11 +44,6 @@ process.
 
 I have given comments in the code for more details.
 
-I ran the following command under “Run Configurations” argument window:
-
-OUTPUT:
-
-![alt tag](/Users/guneevkaur/Desktop/Screen Shot 2017-12-21 at 7.38.03 PM.png)
 
 
 
